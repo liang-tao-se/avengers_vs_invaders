@@ -2,7 +2,7 @@
 
 *Note: this is an AGPL licensed coding challenge repo, therefore no spoils in commits or issues please if you wish to contribute...*
 
-*Disclaimer: if you happen to be one of the superheroes or invader guys quoted in this file and sort of feel offended or anything, please redirect your anger towards the authors of [wiki page 1][r1] and [wiki page 2][r2]...just spare my life, I will do anything...*
+*Disclaimer: if you happen to be one of the superheroes or invader guys quoted in this file and sort of feel offended or anything, please redirect your anger towards the authors of [wiki page 1][r1], [wiki page 2][r2], [wiki page 3][r3], and [wiki page 4][r4]...just spare my life, I will do anything...*
 
 ## Prelude: Where **Your** Legend Starts
 
@@ -85,7 +85,7 @@ You can now choose from two file format options to finish the mandatory challeng
 * Good Old Excel, for which a single input and output file can be found under `Option1_Excel` folder, or:
 * Tab-delimited text (i.e., CSV with tab delimiter) files for input / output, which can be found under `Option2_Tab_Delimited_Text` folder
 
-This coding challenge consist of **2** mandatory tasks and **2** optional tasks. A quick overview of them can be found as follows:
+This coding challenge consists of **2** mandatory tasks and **2** optional tasks. A quick overview of them can be found as follows:
 
 * Mandatory task 1: create a lookup table to provide country-/invader_species-/role-specific email contacts of avengers
 
@@ -266,3 +266,5 @@ Till then!
 
 [r1]: https://en.wikipedia.org/wiki/List_of_Avengers_members
 [r2]: https://en.wikipedia.org/wiki/List_of_Advanced_Dungeons_%26_Dragons_2nd_edition_monsters
+[r3]: https://en.wikipedia.org/wiki/Lists_of_DC_Comics_characters
+[r4]: https://en.wikipedia.org/wiki/Alien_vs._Predator_(film)
