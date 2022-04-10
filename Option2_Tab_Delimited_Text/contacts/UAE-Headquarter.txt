@@ -1,0 +1,13 @@
+UAE-Headquarter	attack_role	defense_role	healing_role
+aliens	valkyrie		
+predators	valkyrie		
+d&d_beholder	valkyrie	valkyrie	agent.venom
+d&d_devil	valkyrie	valkyrie	batman@dc-world.com
+d&d_lich	valkyrie	valkyrie	hulk
+d&d_mind_flayer	valkyrie	valkyrie	havok
+d&d_vampire	valkyrie	valkyrie	sunspot
+d&d_red_dragon	valkyrie	valkyrie	smasher
+d&d_hill_giant	valkyrie	valkyrie	hawkeye
+d&d_treant	valkyrie	valkyrie	hawkeye
+d&d_werewolf	valkyrie	valkyrie	rogue
+d&d_yuan-ti	valkyrie	valkyrie	abyss

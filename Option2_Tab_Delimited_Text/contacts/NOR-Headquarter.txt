@@ -1,0 +1,13 @@
+NOR-Headquarter	attack_role	defense_role	healing_role
+aliens	ares		
+predators	ares		
+d&d_beholder	ares	ares	agent.venom
+d&d_devil	ares	ares	batman@dc-world.com
+d&d_lich	ares	ares	hulk
+d&d_mind_flayer	ares	ares	havok
+d&d_vampire	ares	ares	sunspot
+d&d_red_dragon	ares	ares	smasher
+d&d_hill_giant	ares	ares	hawkeye
+d&d_treant	ares	ares	hawkeye
+d&d_werewolf	ares	ares	rogue
+d&d_yuan-ti	ares	ares	abyss

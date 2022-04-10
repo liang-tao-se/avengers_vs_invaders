@@ -1,0 +1,13 @@
+PAK-Headquarter	attack_role	defense_role	healing_role
+aliens	stature		
+predators	stature		
+d&d_beholder	stature	stature	agent.venom
+d&d_devil	stature	stature	batman@dc-world.com
+d&d_lich	stature	stature	hulk
+d&d_mind_flayer	stature	stature	havok
+d&d_vampire	stature	stature	sunspot
+d&d_red_dragon	stature	stature	smasher
+d&d_hill_giant	stature	stature	hawkeye
+d&d_treant	stature	stature	hawkeye
+d&d_werewolf	stature	stature	rogue
+d&d_yuan-ti	stature	stature	abyss

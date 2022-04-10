@@ -1,0 +1,13 @@
+Ocean-Headquarter	attack_role	defense_role	healing_role
+aliens			
+predators			
+d&d_beholder	hercules	hercules	agent.venom
+d&d_devil	ant.man	ant.man	batman@dc-world.com
+d&d_lich	hulk	hulk	hulk
+d&d_mind_flayer	hercules	hercules	havok
+d&d_vampire	hercules	hercules	sunspot
+d&d_red_dragon	hercules	hercules	smasher
+d&d_hill_giant	hawkeye	hawkeye	hawkeye
+d&d_treant	hawkeye	hawkeye	hawkeye
+d&d_werewolf	hercules	hercules	rogue
+d&d_yuan-ti	hercules	hercules	abyss

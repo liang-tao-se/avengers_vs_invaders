@@ -1,0 +1,13 @@
+DE-Headquarter	attack_role	defense_role	healing_role
+aliens	iron.man		
+predators	thor		
+d&d_beholder	wasp	wasp	wasp
+d&d_devil	ant.man	ant.man	batman@dc-world.com
+d&d_lich	hulk	hulk	hulk
+d&d_mind_flayer	capatain.america	capatain.america	capatain.america
+d&d_vampire	capatain.america	capatain.america	capatain.america
+d&d_red_dragon	capatain.america	capatain.america	capatain.america
+d&d_hill_giant	hawkeye	hawkeye	hawkeye
+d&d_treant	hawkeye	hawkeye	hawkeye
+d&d_werewolf	capatain.america	capatain.america	capatain.america
+d&d_yuan-ti	capatain.america	capatain.america	capatain.america

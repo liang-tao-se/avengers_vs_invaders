@@ -1,0 +1,13 @@
+BRA-Headquarter	attack_role	defense_role	healing_role
+aliens	vision		
+predators	vision		
+d&d_beholder	vision	vision	agent.venom
+d&d_devil	vision	vision	batman@dc-world.com
+d&d_lich	vision	vision	hulk
+d&d_mind_flayer	vision	vision	havok
+d&d_vampire	vision	vision	sunspot
+d&d_red_dragon	vision	vision	smasher
+d&d_hill_giant	vision	vision	hawkeye
+d&d_treant	vision	vision	hawkeye
+d&d_werewolf	vision	vision	rogue
+d&d_yuan-ti	vision	vision	abyss

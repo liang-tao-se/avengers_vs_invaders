@@ -1,0 +1,199 @@
+Country Name	Country Code	Aliens	Predators	D&D Monsters
+Afghanistan	afghanistan	PAK-Headquarter	PAK-Headquarter	PAK-Headquarter
+Albania	albania	DE-Headquarter	DE-Headquarter	DE-Headquarter
+Algeria	algeria	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Andorra	andorra	DE-Headquarter	DE-Headquarter	DE-Headquarter
+Angola	angola	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Argentina	argentina	ARG-Headquarter	ARG-Headquarter	ARG-Headquarter
+Australia	australia	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Austria	austria	DE-Headquarter	DE-Headquarter	DE-Headquarter
+Bahrain	bahrain	UAE-Headquarter	UAE-Headquarter	UAE-Headquarter
+Bangladesh	bangladesh	PAK-Headquarter	PAK-Headquarter	PAK-Headquarter
+Belgium	belgium	DE-Headquarter	DE-Headquarter	DE-Headquarter
+Belize	belize	MEX-Headquarter	MEX-Headquarter	MEX-Headquarter
+Bermuda	bermuda	MEX-Headquarter	MEX-Headquarter	MEX-Headquarter
+Bhutan	bhutan	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Bolivia	bolivia	BRA-Headquarter	BRA-Headquarter	BRA-Headquarter
+Bosnia and Herzegovina	bosnia_and_herzegovina	DE-Headquarter	DE-Headquarter	DE-Headquarter
+Botswana	botswana	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Brazil	brazil	BRA-Headquarter	BRA-Headquarter	BRA-Headquarter
+Brunei	brunei	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Bulgaria	bulgaria	DE-Headquarter	DE-Headquarter	DE-Headquarter
+Cambodia	cambodia	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Canada	canada	CAN-Headquarter	CAN-Headquarter	CAN-Headquarter
+Cayman Islands	cayman_islands	MEX-Headquarter	MEX-Headquarter	MEX-Headquarter
+Chile	chile	ARG-Headquarter	ARG-Headquarter	ARG-Headquarter
+China	china	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Colombia	colombia	COL-Headquarter	COL-Headquarter	COL-Headquarter
+Costa Rica	costa_rica	MEX-Headquarter	MEX-Headquarter	MEX-Headquarter
+Croatia	croatia	DE-Headquarter	DE-Headquarter	DE-Headquarter
+Cyprus	cyprus	DE-Headquarter	DE-Headquarter	DE-Headquarter
+Czech Republic	czech_republic	DE-Headquarter	DE-Headquarter	DE-Headquarter
+Denmark	denmark	DE-Headquarter	DE-Headquarter	DE-Headquarter
+Dominican Republic	dominican_republic	MEX-Headquarter	MEX-Headquarter	MEX-Headquarter
+Ecuador	ecuador	COL-Headquarter	COL-Headquarter	COL-Headquarter
+Egypt	egypt	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+El Salvador	el_salvador	MEX-Headquarter	MEX-Headquarter	MEX-Headquarter
+Estonia	estonia	DE-Headquarter	DE-Headquarter	DE-Headquarter
+Ethiopa	ethiopa	DE-Headquarter	DE-Headquarter	DE-Headquarter
+Finland	finland	DE-Headquarter	DE-Headquarter	DE-Headquarter
+Germany	germany	DE-Headquarter	DE-Headquarter	DE-Headquarter
+Ghana	ghana	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Greece	greece	DE-Headquarter	DE-Headquarter	DE-Headquarter
+Guatemala	guatemala	MEX-Headquarter	MEX-Headquarter	MEX-Headquarter
+Honduras	honduras	MEX-Headquarter	MEX-Headquarter	MEX-Headquarter
+Hong Kong	hong_kong	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Hungary	hungary	DE-Headquarter	DE-Headquarter	DE-Headquarter
+Iceland	iceland	DE-Headquarter	DE-Headquarter	DE-Headquarter
+India	india	IND-Headquarter	IND-Headquarter	IND-Headquarter
+Indonesia	indonesia	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Iran	iran	DE-Headquarter	DE-Headquarter	DE-Headquarter
+Iraq	iraq	US-Headquarter	US-Headquarter	US-Headquarter
+Ireland	ireland	UK-Headquarter	UK-Headquarter	UK-Headquarter
+Israel	israel	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Italy	italy	DE-Headquarter	DE-Headquarter	DE-Headquarter
+Jamaica	jamaica	MEX-Headquarter	MEX-Headquarter	MEX-Headquarter
+Japan	japan	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Jordan	jordan	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Kasachstan	kasachstan	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Kenya	kenya	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Kuwait	kuwait	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Laos	laos	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Latvia	latvia	DE-Headquarter	DE-Headquarter	DE-Headquarter
+Lebanon	lebanon	DE-Headquarter	DE-Headquarter	DE-Headquarter
+Lesotho	lesotho	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Libya	libya	DE-Headquarter	DE-Headquarter	DE-Headquarter
+Lithuania	lithuania	DE-Headquarter	DE-Headquarter	DE-Headquarter
+Luxemburg	luxemburg	DE-Headquarter	DE-Headquarter	DE-Headquarter
+Macedonia	macedonia	DE-Headquarter	DE-Headquarter	DE-Headquarter
+Malawi	malawi	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Malaysia	malaysia	US-Headquarter	US-Headquarter	Ocean-Headquarter
+Mexico	mexico	MEX-Headquarter	MEX-Headquarter	MEX-Headquarter
+Moldova	moldova	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Mongolia	mongolia	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Marocco	marocco	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Mozambique	mozambique	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Namibia	namibia	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Nepal	nepal	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Netherlands	netherlands	NLD-Headquarter	NLD-Headquarter	NLD-Headquarter
+New Zealand	new_zealand	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Nicaragua	nicaragua	MEX-Headquarter	MEX-Headquarter	MEX-Headquarter
+Nigeria	nigeria	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Norway	norway	NOR-Headquarter	NOR-Headquarter	NOR-Headquarter
+Oman	oman	UAE-Headquarter	UAE-Headquarter	UAE-Headquarter
+Pakistan	pakistan	PAK-Headquarter	PAK-Headquarter	PAK-Headquarter
+Palestine	palestine	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Panama	panama	MEX-Headquarter	MEX-Headquarter	MEX-Headquarter
+Paraguay	paraguay	ARG-Headquarter	ARG-Headquarter	ARG-Headquarter
+Peru	peru	COL-Headquarter	COL-Headquarter	COL-Headquarter
+Phillipines	phillipines	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Poland	poland	DE-Headquarter	DE-Headquarter	DE-Headquarter
+Portugal	portugal	DE-Headquarter	DE-Headquarter	DE-Headquarter
+Puerto Rico	puerto_rico	MEX-Headquarter	MEX-Headquarter	MEX-Headquarter
+Qatar	qatar	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Romania	romania	DE-Headquarter	DE-Headquarter	DE-Headquarter
+Russia	russia	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Saint Vincent	saint_vincent	MEX-Headquarter	MEX-Headquarter	MEX-Headquarter
+Saudi Arabia	saudi_arabia	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Serbia	serbia	DE-Headquarter	DE-Headquarter	DE-Headquarter
+Montenegrp	montenegrp	DE-Headquarter	DE-Headquarter	DE-Headquarter
+Singapore	singapore	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Slovak Republic	slovak_republic	DE-Headquarter	DE-Headquarter	DE-Headquarter
+Slovenia	slovenia	DE-Headquarter	DE-Headquarter	DE-Headquarter
+South Africa	south_africa	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+South Korea	south_korea	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Spain	spain	DE-Headquarter	DE-Headquarter	DE-Headquarter
+Sri Lanka	sri_lanka	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Sudan	sudan	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Swaziland	swaziland	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Sweden	sweden	DE-Headquarter	DE-Headquarter	DE-Headquarter
+Switzerland	switzerland	DE-Headquarter	DE-Headquarter	DE-Headquarter
+Syria	syria	DE-Headquarter	DE-Headquarter	DE-Headquarter
+Taiwan	taiwan	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Tanzania	tanzania	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Thailand	thailand	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Trinidad	trinidad	MEX-Headquarter	MEX-Headquarter	MEX-Headquarter
+Tunisia	tunisia	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Turkey	turkey	TUR-Headquarter	TUR-Headquarter	TUR-Headquarter
+Turkmenistan	turkmenistan	DE-Headquarter	DE-Headquarter	DE-Headquarter
+United Arab Emeriates	united_arab_emeriates	UAE-Headquarter	UAE-Headquarter	UAE-Headquarter
+Uganda	uganda	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+United Kingdom	united_kingdom	UK-Headquarter	UK-Headquarter	UK-Headquarter
+Ukraine	ukraine	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Uruguay	uruguay	ARG-Headquarter	ARG-Headquarter	ARG-Headquarter
+USA	usa	US-Headquarter	US-Headquarter	US-Headquarter
+Usbekistan	usbekistan	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Venezuela	venezuela	COL-Headquarter	COL-Headquarter	COL-Headquarter
+Vietnam	vietnam	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Yemen	yemen	UAE-Headquarter	UAE-Headquarter	UAE-Headquarter
+Zambia	zambia	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Zimbabwe	zimbabwe	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Armenia	armenia	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Antigua and Barbuda	antigua_and_barbuda	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Azerbaijan	azerbaijan	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Burundi	burundi	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Benin	benin	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Burkina Faso	burkina_faso	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Bahamas	bahamas	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Belarus	belarus	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Barbados	barbados	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Central African Republic	central_african_republic	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Cameroon	cameroon	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Comoros	comoros	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Congo	congo	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Cape Verde	cape_verde	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Côte d’Ivoire	cote_divoire	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Cuba	cuba	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Djibouti	djibouti	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Dominica	dominica	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Eritrea	eritrea	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Fiji	fiji	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+France	france	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Gabon	gabon	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Georgia	georgia	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Guinea	guinea	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Gambia	gambia	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Guinea-Bissau	guinea-bissau	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Equatorial Guinea	equatorial_guinea	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Grenada	grenada	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Guyana	guyana	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Haiti	haiti	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Kyrgyzstan	kyrgyzstan	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Kiribati	kiribati	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Saint Kitts and Nevis	saint_kitts_and_nevis	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Liberia	liberia	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Saint Lucia	saint_lucia	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Liechtenstein	liechtenstein	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Monaco	monaco	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Madagascar	madagascar	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Maldives	maldives	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Micronesia	micronesia	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Marshall Islands	marshall_islands	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Mali	mali	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Malta	malta	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Myanmar	myanmar	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Mauritania	mauritania	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Mauritius	mauritius	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Niger	niger	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+North Korea	north_korea	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Nauru	nauru	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Palau	palau	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Papua New Guinea	papua_new_guinea	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Rwanda	rwanda	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Senegal	senegal	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Solomon Islands	solomon_islands	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Sierra Leone	sierra_leone	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+San Marino	san_marino	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Somalia	somalia	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Sao Tome and Principe	sao_tome_and_principe	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Suriname	suriname	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Seychelles	seychelles	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Chad	chad	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Togo	togo	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Timor Leste	timor_leste	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Tajikistan	tajikistan	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Tonga	tonga	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Tuvalu	tuvalu	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Vanuatu	vanuatu	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Samoa	samoa	DE-Headquarter	DE-Headquarter	Ocean-Headquarter
+Franconia (secret base)	franconia	Aircraft-Headquarter	Aircraft-Headquarter	Aircraft-Headquarter

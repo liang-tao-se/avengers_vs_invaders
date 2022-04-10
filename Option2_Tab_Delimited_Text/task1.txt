@@ -1,0 +1,2 @@
+Country_Code	Invader	Role	Email
+afghanistan	aliens	attack_role	stature@avengers.com

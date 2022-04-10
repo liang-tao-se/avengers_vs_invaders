@@ -1,0 +1,13 @@
+CAN-Headquarter	attack_role	defense_role	healing_role
+aliens	black.widow		
+predators	black.widow		
+d&d_beholder	black.widow	black.widow	agent.venom
+d&d_devil	black.widow	black.widow	batman@dc-world.com
+d&d_lich	black.widow	black.widow	hulk
+d&d_mind_flayer	black.widow	black.widow	havok
+d&d_vampire	black.widow	black.widow	sunspot
+d&d_red_dragon	black.widow	black.widow	smasher
+d&d_hill_giant	black.widow	black.widow	hawkeye
+d&d_treant	black.widow	black.widow	hawkeye
+d&d_werewolf	black.widow	black.widow	rogue
+d&d_yuan-ti	black.widow	black.widow	abyss

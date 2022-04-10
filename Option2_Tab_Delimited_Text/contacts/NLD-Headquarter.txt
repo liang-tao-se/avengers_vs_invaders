@@ -1,0 +1,13 @@
+NLD-Headquarter	attack_role	defense_role	healing_role
+aliens	echo		
+predators	echo		
+d&d_beholder	echo	echo	agent.venom
+d&d_devil	echo	echo	batman@dc-world.com
+d&d_lich	echo	echo	hulk
+d&d_mind_flayer	echo	echo	havok
+d&d_vampire	echo	echo	sunspot
+d&d_red_dragon	echo	echo	smasher
+d&d_hill_giant	echo	echo	hawkeye
+d&d_treant	echo	echo	hawkeye
+d&d_werewolf	echo	echo	rogue
+d&d_yuan-ti	echo	echo	abyss

@@ -1,0 +1,13 @@
+TUR-Headquarter	attack_role	defense_role	healing_role
+aliens	amadeus_cho		
+predators	amadeus_cho		
+d&d_beholder	amadeus_cho	amadeus_cho	agent.venom
+d&d_devil	amadeus_cho	amadeus_cho	batman@dc-world.com
+d&d_lich	amadeus_cho	amadeus_cho	hulk
+d&d_mind_flayer	amadeus_cho	amadeus_cho	havok
+d&d_vampire	amadeus_cho	amadeus_cho	sunspot
+d&d_red_dragon	amadeus_cho	amadeus_cho	smasher
+d&d_hill_giant	amadeus_cho	amadeus_cho	hawkeye
+d&d_treant	amadeus_cho	amadeus_cho	hawkeye
+d&d_werewolf	amadeus_cho	amadeus_cho	rogue
+d&d_yuan-ti	amadeus_cho	amadeus_cho	abyss

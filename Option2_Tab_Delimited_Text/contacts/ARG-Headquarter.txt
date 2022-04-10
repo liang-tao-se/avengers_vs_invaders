@@ -1,0 +1,13 @@
+ARG-Headquarter	attack_role	defense_role	healing_role
+aliens	nova		
+predators	nova		
+d&d_beholder	nova	nova	agent.venom
+d&d_devil	nova	nova	batman@dc-world.com
+d&d_lich	nova	nova	hulk
+d&d_mind_flayer	nova	nova	havok
+d&d_vampire	nova	nova	sunspot
+d&d_red_dragon	nova	nova	smasher
+d&d_hill_giant	nova	nova	hawkeye
+d&d_treant	nova	nova	hawkeye
+d&d_werewolf	nova	nova	rogue
+d&d_yuan-ti	nova	nova	abyss

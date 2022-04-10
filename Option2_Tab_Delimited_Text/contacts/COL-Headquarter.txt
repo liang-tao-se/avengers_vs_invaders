@@ -1,0 +1,13 @@
+COL-Headquarter	attack_role	defense_role	healing_role
+aliens	spider.man		
+predators	spider.man		
+d&d_beholder	spider.man	spider.man	agent.venom
+d&d_devil	spider.man	spider.man	batman@dc-world.com
+d&d_lich	spider.man	spider.man	hulk
+d&d_mind_flayer	spider.man	spider.man	havok
+d&d_vampire	spider.man	spider.man	sunspot
+d&d_red_dragon	spider.man	spider.man	smasher
+d&d_hill_giant	spider.man	spider.man	hawkeye
+d&d_treant	spider.man	spider.man	hawkeye
+d&d_werewolf	spider.man	spider.man	rogue
+d&d_yuan-ti	spider.man	spider.man	abyss

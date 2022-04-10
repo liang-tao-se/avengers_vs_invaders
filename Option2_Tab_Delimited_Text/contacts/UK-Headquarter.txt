@@ -1,0 +1,13 @@
+UK-Headquarter	attack_role	defense_role	healing_role
+aliens	black.panther		
+predators	black.panther		
+d&d_beholder	black.panther	black.panther	nightmask
+d&d_devil	black.panther	black.panther	black.panther
+d&d_lich	black.panther	black.panther	hulk
+d&d_mind_flayer	black.panther	black.panther	nightmask
+d&d_vampire	black.panther	black.panther	nightmask
+d&d_red_dragon	black.panther	black.panther	nightmask
+d&d_hill_giant	hawkeye	hawkeye	hawkeye
+d&d_treant	hawkeye	hawkeye	hawkeye
+d&d_werewolf	black.panther	black.panther	nightmask
+d&d_yuan-ti	black.panther	black.panther	nightmask

@@ -1,0 +1,17 @@
+iron.man	aliens	predators	d&d_beholder	d&d_devil	d&d_lich	d&d_mind_flayer	d&d_vampire	d&d_red_dragon	d&d_hill_giant	d&d_treant	d&d_werewolf	d&d_yuan-ti
+DE-Headquarter	A											
+US-Headquarter												
+UK-Headquarter												
+Ocean-Headquarter												
+BRA-Headquarter												
+CAN-Headquarter												
+COL-Headquarter												
+IND-Headquarter												
+MEX-Headquarter												
+NLD-Headquarter												
+NOR-Headquarter												
+PAK-Headquarter												
+TUR-Headquarter												
+UAE-Headquarter												
+ARG-Headquarter												
+Aircraft-Headquarter												

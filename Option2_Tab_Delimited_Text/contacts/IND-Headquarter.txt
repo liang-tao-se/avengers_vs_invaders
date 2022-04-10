@@ -1,0 +1,13 @@
+IND-Headquarter	attack_role	defense_role	healing_role
+aliens	deadpool		
+predators	deadpool		
+d&d_beholder	deadpool	deadpool	agent.venom
+d&d_devil	deadpool	deadpool	batman@dc-world.com
+d&d_lich	deadpool	deadpool	hulk
+d&d_mind_flayer	deadpool	deadpool	havok
+d&d_vampire	deadpool	deadpool	sunspot
+d&d_red_dragon	deadpool	deadpool	smasher
+d&d_hill_giant	deadpool	deadpool	hawkeye
+d&d_treant	deadpool	deadpool	hawkeye
+d&d_werewolf	deadpool	deadpool	rogue
+d&d_yuan-ti	deadpool	deadpool	abyss

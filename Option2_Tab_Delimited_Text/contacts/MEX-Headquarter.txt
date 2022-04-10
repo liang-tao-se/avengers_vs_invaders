@@ -1,0 +1,13 @@
+MEX-Headquarter	attack_role	defense_role	healing_role
+aliens	star.brand		
+predators	star.brand		
+d&d_beholder	star.brand	star.brand	agent.venom
+d&d_devil	shang-chi	shang-chi	batman@dc-world.com
+d&d_lich	sentry	sentry	hulk
+d&d_mind_flayer	star.brand	star.brand	havok
+d&d_vampire	star.brand	star.brand	sunspot
+d&d_red_dragon	star.brand	star.brand	smasher
+d&d_hill_giant	wolverine	wolverine	hawkeye
+d&d_treant	wolverine	wolverine	hawkeye
+d&d_werewolf	star.brand	star.brand	rogue
+d&d_yuan-ti	star.brand	star.brand	abyss

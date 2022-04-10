@@ -1,0 +1,13 @@
+Aircraft-Headquarter	attack_role	defense_role	healing_role
+aliens	iron.fist		
+predators	power.women		
+d&d_beholder	doctor.strange	doctor.strange	doctor.strange
+d&d_devil	iron.fist	iron.fist	iron.fist
+d&d_lich	daredevil	daredevil	daredevil
+d&d_mind_flayer	storm	storm	storm
+d&d_vampire	storm	storm	storm
+d&d_red_dragon	quake	quake	quake
+d&d_hill_giant	iron.fist	iron.fist	iron.fist
+d&d_treant	red.hulk	red.hulk	red.hulk
+d&d_werewolf	capatain.america	capatain.america	capatain.america
+d&d_yuan-ti	captain.britain	captain.britain	captain.britain
