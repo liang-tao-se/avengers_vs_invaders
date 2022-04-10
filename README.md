@@ -22,7 +22,7 @@ In year 20xx, yet another war broke out on earth; but this time the whole human 
   * **Werewolf**
   * **Yuan-Ti**
 
-During this darkest time, our bravest **Avenger** heroes have banded up together, yet again, to answer on the plea of mankind and strive to return peace to this world. In order to perform their super-hero duties in a slightly more organized manner, they decided to set up the following **12** regional **headquarters (HQ)** to split work among them:
+During this darkest time, our bravest **Avenger** heroes have banded up together, yet again, to answer on the plea of mankind and strive to return peace to this world. In order to perform their super-hero duties in a slightly more organized manner, they decided to set up the following **16** regional **headquarters (HQ)** to split work among them:
 
 * **DE-Headquarter**
 * **US-Headquarter**
@@ -71,7 +71,7 @@ And then they decided that the sign-up form should be **HQ-specific**, and they 
 | predators      | thor        |
 | d&d_beholder   | wasp        | wasp         | wasp         |
 
-After they finish signing up, a total of 12 such contact tables have been collected and made available to everyone in the following two formats:
+After they finish signing up, a total of **16** such contact tables have been collected and made available to everyone in the following two formats:
 
 * In the **Contacts** tab of Excel file under `Option1_Excel` folder, or:
 * In the tab-delimited text files (named after avenger HQs) under **contacts** subfolder under `Option2_Tab_Delimited_Text` folder
@@ -248,7 +248,7 @@ Don't look at me like that! You only need to change yourself into a ***10x engin
   * The content of the dashboard is basically each superhero's dedicated role overview table you obtained from mandatory task 2, however--the management expects you to convert each A/D/H/AD/AH/DH/ADH text field into a hyperlink. And when you click on it, a nice **trending chart** will pop up showing the number of invaders (under the specified invader species) this superhero defeated in each one of the last 10 months...You don't have that data? Neither do I! So just make things up using a random number generator or something, ***nobody*** cares!
   * Don't forget about the '**Thumb Up**' button! Remember it's one-way traffic and you can't reduce the ***Like*** count at any rate!
 
-* Oh, the management also asked for a **Visit Homepage** button sitting next to the queried email result text field under UI View 1, which bring you to the corresponding dashboard under UI View 2. And then in the navigation menu of UI View 2, there should also be a '**Search**' button to bring you to UI View 1....Actually, just use the navigation column or row for both views, and that's it!
+* Oh, the management also asked for a **This Avenger's Homepage** button sitting next to the queried email result text field under UI View 1, which bring you to the corresponding dashboard under UI View 2. And then in the navigation menu of UI View 2, there should also be a '**Search for Avenger**' button to bring you to UI View 1....Actually, just use the navigation column or row for both views, and that's it!
 
 * You can use ***any*** Web-based or Desktop-App flavor of UI realization, the management would even accept an implementation in Excel if you made it!
 
