@@ -119,7 +119,7 @@ So you scrolled like mad and eventually barely survived the cursings of your bos
 
 "Oh, by the way, just want to let you know that 3000 more people DIED when you were searching for that email address...Bear THAT on your conscience!"
 
-OooooKay, it looks like we badly need another lookup table so as just to avoid that sort of tragedy again in future. This new table should definitely look like the follows, and in the end we need to put **ALL** information we currently have in this one place:
+OooooKay, it looks like we badly need another lookup table so as just to avoid that sort of tragedy again in future. This new table should definitely look like the following one, and in the end we need to put **ALL** information we currently have in this one place:
 
 | Country_Code | Invader_Species | Role        | Email                |
 | :----------- | :-------------- | :---------- | :------------------- |
@@ -147,7 +147,7 @@ So now off you go! Our brave CCO (that is, if you still remember what it means)!
 
 So I see you are indeed an efficient young man / woman, you have already finished your first task and have come back here to ask for more. To reward your excellent work and self-motivation, the Earth's Resistance Force Committee has decided...that you will be given an additional role of Chief Friendship Officer, on top of your current responsibility of Chief Communication Officer! You should see both roles equally important and invest 50% / 50% of your capacity in both of them...
 
-Hmmm...What? You want to talk about compensation and benefits? Firstly I believe you need to obtain signed approvals from all the local worker union / Betriebsart / party representative council / mafia ensemble / or whatever trouble-makers you can find from **each** of the regional HQ offices that you have contact with to start such a conversation; and then you need to talk to your CCO role's boss (no that's no me, you are mistaken) to get a permission to talk to me, which in theory would only work if you have already obtained a permission from me to talk to him for such a topic in the first place...and...you know, I would really ***love*** to help you there if I ***could***...
+Hmmm...What? You want to talk about compensation and benefits? Firstly I believe you need to obtain signed approvals from all the local worker union / Betriebsart / party representative council / mafia ensemble / or whatever trouble-makers you can find from **each** of the regional HQ offices that you have contact with to start such a conversation; and then you need to talk to your CCO role's boss (no that's not me, you are mistaken) to get a permission to talk to me, which in theory would only work if you have already obtained a permission from me to talk to him for such a topic in the first place...and...you know, I would really ***love*** to help you there if I ***could***...
 
 Okay, people are still dying so let's get back to business before you capitalize more on their misfortune. Hmmm...where was I? Oh yes, the whole Chief Friendship Officer thing is, that, err...we have sort of **lost count** of how many superheroes we have signed up in the team and it's getting more and more awkward when we meet one of them and can't say thank you for **exactly** what he or she is doing...Since my boss just recently cancelled the Key Account Manager headcount due to *budgetary* reasons, you have now become our best candidate for the task!
 
