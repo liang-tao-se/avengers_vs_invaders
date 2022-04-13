@@ -95,7 +95,7 @@ This coding challenge consists of **2** mandatory tasks and **2** optional tasks
 
 * Optional task 2: create two interactive dashboards for filtering / querying results respectively from mandatory task 1 and 2 outcomes
 
-Note that mandatory tasks are **timed**, whereas optional tasks are not. Therefore, you should **immediately** send me an email containing results and source code used as soon as you finish mandatory task 1 & 2. Your spent time will be calculated as the time between (1) the instance I send you this repo link via email and (2) the instance I receive your answer to mandatory task 1 & 2 by email--YES, time you spent on reading this child's story **does** count in total. If you did come up with something from the optional task(s), send them to me later on in a **separate** email and there is no need to hurry in that case.
+Note that mandatory tasks are **timed**, whereas optional tasks are not. Therefore, you should **immediately** send me an email with a **zip** attachment containing result file(s) and source code(s) used as soon as you finish mandatory task 1 & 2. Your spent time will be calculated as the time between (1) the instance I send you this repo link via email and (2) the instance I receive your answer to mandatory task 1 & 2 by email--YES, time you spent on reading this child's story **does** count in total. If you did come up with something from the optional task(s), send them to me later on in a **separate** email and there is no need to hurry in that case.
 
 Pick whatever programming language you like: I will try to learn it if it's also new to me...
 
@@ -119,7 +119,7 @@ So you scrolled like mad and eventually barely survived the cursings of your bos
 
 "Oh, by the way, just want to let you know that 3000 more people DIED when you were searching for that email address...Bear THAT on your conscience!"
 
-OooooKay, it looks like we badly need another lookup table so as just to avoid that sort of tragedy again in future. This new table should definitely look like the following one, and in the end we need to put **ALL** information we currently have in this one place:
+OooooKay, it looks like we badly need another lookup table so as just to avoid that sort of tragedy again in future. This new table should definitely look like the following one--but much much longer, of course, we want to **enumerate** all possible cases and in the end we need to put **ALL** information we currently have in this one place:
 
 | Country_Code | Invader_Species | Role        | Email                |
 | :----------- | :-------------- | :---------- | :------------------- |
@@ -140,6 +140,8 @@ And one last thing before I forget: you might have already noticed that there ar
 
 * Some superheroes are just addicted to the lone wolf show and just won't work with others when fighting the invaders.
 * There are certain regions that are *almost* not inhabited by anyone, so we are reluctant to dispense any resource there and...well, you know, we've got to give the bad guys some place to retreat to so that we could shoot the avengers vs invaders 2 sequel somewhere in future...when we found our new sugar daddy...if we managed it...
+
+What does that mean for you? Well, just remember that you should **not** create any row with **empty email address** in the final lookup table, and then everything will be fine...
 
 So now off you go! Our brave CCO (that is, if you still remember what it means)!
 
@@ -176,7 +178,17 @@ Alright, since my boss just informed me that our whole front end team was sacked
 
 You see, all you need to do to make those superheroes happy is to list down their **role(s)** at each **avenger HQ** with respect to each **invader species**!
 
-Of course, If you don't like all the empty fields above, you can also make it lighter into the following **lite-form** example:
+Oh, And I almost forgot to explain to you what that ***A*** field means in the table above: it is just a shorthand of **avenger role(s)**. You can find a complete list of them as follows:
+
+* A stands for attack role
+* D stands for defense role
+* H stands for healing role
+* AD stands for attack + defense roles
+* AH stands for attack + healing roles
+* DH stands for defense + healing roles
+* ADH stands for attack + defense + healing roles
+
+Of course, If you don't like all the empty fields in the table above, you can also make it lighter into the following **lite-form** example:
 
 | iron.man       | aliens |
 | :------------- | :----- |
@@ -188,16 +200,6 @@ The skeleton version of the upper bloated-form table can found in the following 
 * In the tab-delimited text files (named after avenger names) under **task2** subfolder under `Option2_Tab_Delimited_Text` folder
 
 You can choose to finish this task with either **bloated-form** or **lite-form** tables as you like.
-
-Oh, And I almost forgot to explain to you what shorthands of **avenger role(s)** you will need to put in those table fields, namely:
-
-* A stands for attack role
-* D stands for defense role
-* H stands for healing role
-* AD stands for attack + defense roles
-* AH stands for attack + healing roles
-* DH stands for defense + healing roles
-* ADH stands for attack + defense + healing roles
 
 Just don't forget any superheroes and don't create duplicated tables for any one of them. Best luck to you, my young Chief Communication and Friendship Officer!
 
