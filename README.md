@@ -201,7 +201,7 @@ The skeleton version of the upper bloated-form table can found in the following 
 
 You can choose to finish this task with either **bloated-form** or **lite-form** tables as you like.
 
-Just don't forget any superheroes and don't create duplicated tables for any one of them. Best luck to you, my young Chief Communication and Friendship Officer!
+Just don't forget any superheroes (that **includes** also our DC-world guys) and don't create duplicated tables for any one of them. Best luck to you, my young Chief Communication and Friendship Officer!
 
 ---
 ## The Limbo Area between Mandatory Tasks and Optional Tasks
